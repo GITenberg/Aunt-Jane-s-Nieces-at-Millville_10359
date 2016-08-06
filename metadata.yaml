@@ -1,0 +1,33 @@
+_repo: Aunt-Jane-s-Nieces-at-Millville_10359
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    - Baum, Lyman Frank
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Cover -- Contents.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PZ'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- GITenberg
+title: Aunt Jane's Nieces at Millville
+url: http://www.gutenberg.org/ebooks/10359
